@@ -1,0 +1,16 @@
+C:\Users\jeroe\source\repos\core\AngCoreSQL\ApiCrud\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\jeroe\source\repos\core\AngCoreSQL\ApiCrud\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\jeroe\source\repos\core\AngCoreSQL\ApiCrud\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\jeroe\source\repos\core\AngCoreSQL\ApiCrud\bin\Debug\netcoreapp2.2\ApiCrud.deps.json
+C:\Users\jeroe\source\repos\core\AngCoreSQL\ApiCrud\bin\Debug\netcoreapp2.2\ApiCrud.runtimeconfig.json
+C:\Users\jeroe\source\repos\core\AngCoreSQL\ApiCrud\bin\Debug\netcoreapp2.2\ApiCrud.runtimeconfig.dev.json
+C:\Users\jeroe\source\repos\core\AngCoreSQL\ApiCrud\bin\Debug\netcoreapp2.2\ApiCrud.dll
+C:\Users\jeroe\source\repos\core\AngCoreSQL\ApiCrud\bin\Debug\netcoreapp2.2\ApiCrud.pdb
+C:\Users\jeroe\source\repos\core\AngCoreSQL\ApiCrud\obj\Debug\netcoreapp2.2\ApiCrud.csprojAssemblyReference.cache
+C:\Users\jeroe\source\repos\core\AngCoreSQL\ApiCrud\obj\Debug\netcoreapp2.2\ApiCrud.RazorAssemblyInfo.cache
+C:\Users\jeroe\source\repos\core\AngCoreSQL\ApiCrud\obj\Debug\netcoreapp2.2\ApiCrud.RazorAssemblyInfo.cs
+C:\Users\jeroe\source\repos\core\AngCoreSQL\ApiCrud\obj\Debug\netcoreapp2.2\ApiCrud.AssemblyInfoInputs.cache
+C:\Users\jeroe\source\repos\core\AngCoreSQL\ApiCrud\obj\Debug\netcoreapp2.2\ApiCrud.AssemblyInfo.cs
+C:\Users\jeroe\source\repos\core\AngCoreSQL\ApiCrud\obj\Debug\netcoreapp2.2\ApiCrud.RazorTargetAssemblyInfo.cache
+C:\Users\jeroe\source\repos\core\AngCoreSQL\ApiCrud\obj\Debug\netcoreapp2.2\ApiCrud.dll
+C:\Users\jeroe\source\repos\core\AngCoreSQL\ApiCrud\obj\Debug\netcoreapp2.2\ApiCrud.pdb
